@@ -111,6 +111,11 @@ a.secondary {
   margin-right: 0.5rem;
 }
 
+.techStack{
+  display: flex;
+  gap: 5px;
+}
+
 /* Enable hover only on non-touch devices */
 @media (hover: hover) and (pointer: fine) {
   a.primary:hover {
