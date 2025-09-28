@@ -1,0 +1,14 @@
+{
+    "techStack": [
+        "java",
+        "spring",
+        "mariadb",
+        "redis",
+        "docker",
+        "aws"
+    ],
+    "projects": {
+        "name": "헬스장 게임화 서비스",
+        "url": "https://github.com/LG-CNS-AM03-MINI-PROJECT-1st-TEAM2"
+    }
+}
