@@ -1,11 +1,16 @@
 {
     "techStack": [
-        "java",
-        "spring",
-        "mariadb",
-        "redis",
-        "docker",
-        "aws"
+        "https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white",
+        "https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white",
+        "https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white",
+        "https://img.shields.io/badge/JPA-FF9900?style=flat&logo=Java&logoColor=white",
+        "https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white",
+        "https://img.shields.io/badge/Querydsl-4C4C4C?style=flat",
+        "https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white",
+        "https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white",
+        "https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white",
+        "https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white",
+        "https://img.shields.io/badge/JUnit-25A162?style=flat&logo=JUnit&logoColor=white"
     ],
     "projects": {
         "name": "헬스장 게임화 서비스",
