@@ -12,8 +12,10 @@
         "https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white",
         "https://img.shields.io/badge/JUnit-25A162?style=flat&logo=JUnit&logoColor=white"
     ],
-    "projects": {
-        "name": "헬스장 게임화 서비스",
-        "url": "https://github.com/LG-CNS-AM03-MINI-PROJECT-1st-TEAM2"
-    }
+    "projects": [
+        {
+            "name": "헬스장 게임화 서비스",
+            "url": "https://github.com/LG-CNS-AM03-MINI-PROJECT-1st-TEAM2"
+        }
+    ]
 }
